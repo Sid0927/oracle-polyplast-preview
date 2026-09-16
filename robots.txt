@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap: https://emehta.github.io/oracle-polyplast-preview/sitemap-index.xml
+Sitemap: https://sid0927.github.io/oracle-polyplast-preview/sitemap-index.xml
