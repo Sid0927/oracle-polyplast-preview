@@ -34,15 +34,12 @@
 /team /about/ 301
 /articles/ / 302
 /articles / 302
-/certifications/ / 302
-/certifications / 302
+/certifications/ /quality-certifications/ 301
+/certifications /quality-certifications/ 301
 /careers/ /about/ 301
 /careers /about/ 301
 /sitemap_index.xml /sitemap-index.xml 301
 /sitemap.xml /sitemap-index.xml 301
-/quality-certifications / 302
-/quality-certifications/ / 302
-/quality-certifications/* / 302
 /sustainability / 302
 /sustainability/ / 302
 /sustainability/* / 302
