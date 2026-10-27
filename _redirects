@@ -22,8 +22,8 @@
 /meal-boxes /products/pp-meal-boxes/ 301
 /lids/ /products/pet-ps-lids/ 301
 /lids /products/pet-ps-lids/ 301
-/printed-glasses/ /products/pet-pp-printing-glasses/ 301
-/printed-glasses /products/pet-pp-printing-glasses/ 301
+/printed-glasses/ /products/printed-pet-pp-cups-glasses/ 301
+/printed-glasses /products/printed-pet-pp-cups-glasses/ 301
 /cornstarch-products/ /products/cornstarch-packaging/ 301
 /cornstarch-products /products/cornstarch-packaging/ 301
 /rectangular-containers/ /products/pp-rectangular-containers/ 301
@@ -40,6 +40,8 @@
 /careers /about/ 301
 /sitemap_index.xml /sitemap-index.xml 301
 /sitemap.xml /sitemap-index.xml 301
+/products/pet-pp-printing-glasses/ /products/printed-pet-pp-cups-glasses/ 301
+/products/pet-pp-printing-glasses /products/printed-pet-pp-cups-glasses/ 301
 /sustainability / 302
 /sustainability/ / 302
 /sustainability/* / 302
