@@ -1,0 +1,1 @@
+function e(e,t={}){let n=window.gtag;n?.(`event`,e,{page_path:location.pathname,...t})}export{e as t};

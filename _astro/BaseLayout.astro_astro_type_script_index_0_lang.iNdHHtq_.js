@@ -1,0 +1,1 @@
+import{t as e}from"./track.DW1hREpd.js";document.addEventListener(`click`,t=>{let n=t.target.closest(`a[href]`);n&&(n.href.startsWith(`https://wa.me/`)?e(`whatsapp_click`):n.href.startsWith(`tel:`)&&e(`call_click`))});
